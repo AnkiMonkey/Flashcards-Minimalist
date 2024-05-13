@@ -6,10 +6,6 @@ Flashcards-Minimalist is an app simulating Quizlet omitting SRS from ANKI. Use s
 
 ## Advantages
 - (1) Usable as Intro to ANKI
-- (2) Creating a .txt w/ incorrect answers (as Q*+A**)
+- (2) Creating a .txt w/ incorrect answers (as question + answer)
 - (3) Controllable w/ a joystick
 
-
-
-- * Q - question
-- ** A - answer
