@@ -1,4 +1,10 @@
 # Flashcards-Minimalist
+
+<p align="center">
+  <img src="1.png" width="400">
+</p>
+
+
 Flashcards-Minimalist is an app simulating Quizlet omitting SRS from ANKI. Use scenarios as follows: 
 - (1) Free Quizlet variant
 - (2) Omitting ANKI's SRS for specific purpose (e.g. cramming, need to rewise specific information each day...)
